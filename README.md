@@ -10,7 +10,7 @@ Keywords - intent recognition, slot filling, code-mixing, code-switching, multil
 
 ## Usage examples
 
-First you need to get the [dataset](https://catalog.ldc.upenn.edu/LDC2021T04) and put it into the `data/atis` folder. Otherwise, you can use cached versions of it prepared by us.
+First you need to get the [dataset](https://catalog.ldc.upenn.edu/LDC2021T04) and put it into the `code/data/atis` folder. Otherwise, you can use cached versions of it prepared by us.
 
 To create translations run `code/make_translations.ipynb`.
 To create alignments run `code/make_alignments.ipynb`.
